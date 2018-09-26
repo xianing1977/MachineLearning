@@ -1,4 +1,4 @@
-test
+Machine Learning
 ====
 
-1st repository for testing
+Using for machine learning script
